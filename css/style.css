@@ -477,7 +477,6 @@ button:focus {
     font-size: 72px;
     font-weight: 400;
     line-height: 1.2;
-    text-transform: capitalize;
 }
 
 .header_subtitle {
@@ -717,7 +716,6 @@ button:focus {
     font-size: 18px;
     font-weight: 600;
     margin-top: 0;
-    text-transform: capitalize;
 }
 
 .cv_desc {
